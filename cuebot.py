@@ -102,4 +102,4 @@ async def timer(ctx, time: str, *, title: str = "Timer"): #same as reminder
 
 
 #__RUN THE CUE BOT__
-bot.run('MTQyODcwMTQxMTc3MTk0MDg3NQ.G7zuJ2.lreJc0N24u1w7vXiT4xEgx6ZxHIfBiLbgG4174')
+bot.run('os.getenv('DISCORD_TOKEN')')
